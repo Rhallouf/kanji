@@ -1,5 +1,5 @@
 const sr = ScrollReveal({
-    reset: false,
+    reset: true,
 });
 
 sr.reveal('.card',{
